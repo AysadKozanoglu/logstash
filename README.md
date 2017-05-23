@@ -4,28 +4,7 @@ Logstash is part of the [Elastic Stack](https://www.elastic.co/products) along w
 
 The license is Apache 2.0, meaning you are pretty much free to use it however you want in whatever way.
 
-For more info, see <https://www.elastic.co/products/logstash>
 
-## Documentation and Getting Started
-
-You can find the documentation and getting started guides for Logstash 
-on the [elastic.co site](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html)
-
-## Downloads
-
-You can download officially released Logstash binaries, as well as debian/rpm packages for the
-supported platforms, from [downloads page](https://www.elastic.co/downloads/logstash).
-
-### Snapshot Builds
-
-For the daring, snapshot builds from `master` branch are available. These builds are created nightly and have undergone no formal QA, so they should **never** be run in production.
-
-| artifact |
-| --- |
-| [tar](https://snapshots.elastic.co/downloads/logstash/logstash-6.0.0-alpha2-SNAPSHOT.tar.gz) |
-| [zip](https://snapshots.elastic.co/downloads/logstash/logstash-6.0.0-alpha2-SNAPSHOT.zip) |
-| [deb](https://snapshots.elastic.co/downloads/logstash/logstash-6.0.0-alpha2-SNAPSHOT.deb) |
-| [rpm](https://snapshots.elastic.co/downloads/logstash/logstash-6.0.0-alpha2-SNAPSHOT.rpm) |
 
 ## Need Help?
 
